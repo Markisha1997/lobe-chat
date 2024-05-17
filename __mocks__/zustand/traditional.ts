@@ -1,4 +1,4 @@
-import { act } from 'react-dom/test-utils';
+import { act };
 import { beforeEach } from 'vitest';
 import { createWithEqualityFn as actualCreate } from 'zustand/traditional';
 
